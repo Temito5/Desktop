@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\bin\Debug\Cars-9D-№13.exe.config
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\bin\Debug\Cars-9D-№13.exe
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\bin\Debug\Cars-9D-№13.pdb
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\obj\Debug\Cars-9D-№13.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\obj\Debug\Cars-9D-№13.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\obj\Debug\Cars-9D-№13.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\obj\Debug\Cars-9D-№13.exe
+C:\Users\STUDENTS-1212-3\Desktop\Temenuga\Cars-9D-№13\Cars-9D-№13\obj\Debug\Cars-9D-№13.pdb
